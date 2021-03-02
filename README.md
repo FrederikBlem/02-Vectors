@@ -5,11 +5,11 @@
 
 a)
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&space;=&space;(7-0,8-0)=&space;(7,8)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;=&space;(7-0,8-0)=&space;(7,8)" title="\vec{a} = (7-0,8-0)= (7,8)" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&space;=&space;\binom{7-0}{8-0}&space;=&space;\binom{7}{8}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;=&space;\binom{7-0}{8-0}&space;=&space;\binom{7}{8}" title="\vec{a} = \binom{7-0}{8-0} = \binom{7}{8}" /></a>
 
 b)
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&space;=&space;(7-4,8-3)&space;=&space;(3,5)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;=&space;(7-4,8-3)&space;=&space;(3,5)" title="\vec{a} = (7-4,8-3) = (3,5)" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&space;=&space;\binom{7-4}{8-3}&space;=&space;\binom{3}{5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;=&space;\binom{7-4}{8-3}&space;=&space;\binom{3}{5}" title="\vec{a} = \binom{7-4}{8-3} = \binom{3}{5}" /></a>
 
 c)
 
@@ -72,3 +72,29 @@ m)
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\binom{1}{3}&space;\cdot&space;\frac{1}{2}&space;=&space;\binom{0.5}{1.5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\binom{1}{3}&space;\cdot&space;\frac{1}{2}&space;=&space;\binom{0.5}{1.5}" title="\binom{1}{3} \cdot \frac{1}{2} = \binom{0.5}{1.5}" /></a>
 
+## Unit Vectors
+
+n)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{e}=\binom{\cos(arg(\vec{e}))&space;}{\sin(arg(\vec{e}))&space;}&space;=&space;\binom{\frac{x}{\sqrt{x^2&plus;y^2}}}{\frac{y}{\sqrt{x^2&plus;y^2}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{e}=\binom{\cos(arg(\vec{e}))&space;}{\sin(arg(\vec{e}))&space;}&space;=&space;\binom{\frac{x}{\sqrt{x^2&plus;y^2}}}{\frac{y}{\sqrt{x^2&plus;y^2}}}" title="\hat{e}=\binom{\cos(arg(\vec{e})) }{\sin(arg(\vec{e})) } = \binom{\frac{x}{\sqrt{x^2+y^2}}}{\frac{y}{\sqrt{x^2+y^2}}}" /></a>
+
+o)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;\binom{\frac{3}{\sqrt{3^2&plus;2^2}}}{\frac{2}{\sqrt{3^2&plus;2^2}}}&space;=&space;\binom{0.83205029433}{0.55470019622}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{a}&space;=&space;\binom{\frac{3}{\sqrt{3^2&plus;2^2}}}{\frac{2}{\sqrt{3^2&plus;2^2}}}&space;=&space;\binom{0.83205029433}{0.55470019622}" title="\hat{a} = \binom{\frac{3}{\sqrt{3^2+2^2}}}{\frac{2}{\sqrt{3^2+2^2}}} = \binom{0.83205029433}{0.55470019622}" /></a>
+
+p)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;\binom{\frac{7}{\sqrt{7^2-2^2}}}{\frac{-2}{\sqrt{7^{2}-2^2}}}=\binom{1.0434983895}{-0.298142397}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{a}&space;=&space;\binom{\frac{7}{\sqrt{7^2-2^2}}}{\frac{-2}{\sqrt{7^{2}-2^2}}}=\binom{1.0434983895}{-0.298142397}" title="\hat{a} = \binom{\frac{7}{\sqrt{7^2-2^2}}}{\frac{-2}{\sqrt{7^{2}-2^2}}}=\binom{1.0434983895}{-0.298142397}" /></a>
+
+
+## Dot Product / Scalar Product
+
+q)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}\cdot&space;\vec{b}&space;=&space;\sqrt{2^2&plus;3^2}\cdot&space;\sqrt{4^2&plus;6^2}&space;\cdot&space;cos(0)&space;=&space;26" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}\cdot&space;\vec{b}&space;=&space;\sqrt{2^2&plus;3^2}\cdot&space;\sqrt{4^2&plus;6^2}&space;\cdot&space;cos(0)&space;=&space;26" title="\vec{a}\cdot \vec{b} = \sqrt{2^2+3^2}\cdot \sqrt{4^2+6^2} \cdot cos(0) = 26" /></a>
+
+r)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}\cdot&space;\vec{b}&space;=&space;\sqrt{2^2&plus;3^2}\cdot&space;\sqrt{-3^2&plus;2^2}&space;\cdot&space;cos(90)&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}\cdot&space;\vec{b}&space;=&space;\sqrt{2^2&plus;3^2}\cdot&space;\sqrt{-3^2&plus;2^2}&space;\cdot&space;cos(90)&space;=&space;0" title="\vec{a}\cdot \vec{b} = \sqrt{2^2+3^2}\cdot \sqrt{-3^2+2^2} \cdot cos(90) = 0" /></a>
+
+### [Python part of assignment in file](FBlemVectorFun.py)
