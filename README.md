@@ -32,3 +32,21 @@ e)
 4. <a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&space;&plus;&space;(\vec{b}&space;&plus;&space;\vec{c})&space;=&space;\binom{3}{2}&space;&plus;&space;(\binom{5}{1}&space;&plus;&space;\binom{-2}{6})&space;=&space;\binom{3}{2}&space;&plus;&space;\binom{3}{7}&space;=&space;\binom{6}{9}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;&plus;&space;(\vec{b}&space;&plus;&space;\vec{c})&space;=&space;\binom{3}{2}&space;&plus;&space;(\binom{5}{1}&space;&plus;&space;\binom{-2}{6})&space;=&space;\binom{3}{2}&space;&plus;&space;\binom{3}{7}&space;=&space;\binom{6}{9}" title="\vec{a} + (\vec{b} + \vec{c}) = \binom{3}{2} + (\binom{5}{1} + \binom{-2}{6}) = \binom{3}{2} + \binom{3}{7} = \binom{6}{9}" /></a>
 
 5. <a href="https://www.codecogs.com/eqnedit.php?latex=\vec{b}&space;&plus;&space;\vec{a}&space;=&space;\binom{5}{1}&space;&plus;&space;\binom{3}{2}&space;=&space;\binom{8}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{b}&space;&plus;&space;\vec{a}&space;=&space;\binom{5}{1}&space;&plus;&space;\binom{3}{2}&space;=&space;\binom{8}{3}" title="\vec{b} + \vec{a} = \binom{5}{1} + \binom{3}{2} = \binom{8}{3}" /></a>
+
+## Vector Decomposition
+
+<img src="Images/Fig2-3.png"> 
+
+f)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=x&space;=&space;5&space;\cdot&space;cos(\pi&space;/&space;5)&space;=&space;4.04508497187" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;=&space;5&space;\cdot&space;cos(\pi&space;/&space;5)&space;=&space;4.04508497187" title="x = 5 \cdot cos(\pi / 5) = 4.04508497187" /></a><br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;5&space;\cdot&space;sin(\pi&space;/&space;5)&space;=&space;2.93892626146" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;5&space;\cdot&space;sin(\pi&space;/&space;5)&space;=&space;2.93892626146" title="y = 5 \cdot sin(\pi / 5) = 2.93892626146" /></a>
+
+g)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{F}&space;=&space;\binom{5\cdot&space;\cos(&space;\frac{\pi}{5})}{5\cdot&space;\sin(&space;\frac{\pi}{5})}=\binom{4.04}{2.93}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{F}&space;=&space;\binom{5\cdot&space;\cos(&space;\frac{\pi}{5})}{5\cdot&space;\sin(&space;\frac{\pi}{5})}=\binom{4.04}{2.93}" title="\vec{F} = \binom{5\cdot \cos( \frac{\pi}{5})}{5\cdot \sin( \frac{\pi}{5})}=\binom{4.04}{2.93}" /></a>
+
+h)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{F_x^2&space;&plus;&space;F_y^2}&space;=&space;\sqrt{4.04508497187^2&space;&plus;&space;2.93892626146^2}&space;=&space;4.99999999999" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{F_x^2&space;&plus;&space;F_y^2}&space;=&space;\sqrt{4.04508497187^2&space;&plus;&space;2.93892626146^2}&space;=&space;4.99999999999" title="\sqrt{F_x^2 + F_y^2} = \sqrt{4.04508497187^2 + 2.93892626146^2} = 4.99999999999" /></a>
+
