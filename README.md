@@ -50,3 +50,25 @@ h)
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{F_x^2&space;&plus;&space;F_y^2}&space;=&space;\sqrt{4.04508497187^2&space;&plus;&space;2.93892626146^2}&space;=&space;4.99999999999" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{F_x^2&space;&plus;&space;F_y^2}&space;=&space;\sqrt{4.04508497187^2&space;&plus;&space;2.93892626146^2}&space;=&space;4.99999999999" title="\sqrt{F_x^2 + F_y^2} = \sqrt{4.04508497187^2 + 2.93892626146^2} = 4.99999999999" /></a>
 
+## Multiplication of a Vector with a Scalar
+
+i)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{b}&space;=&space;5\vec{a}&space;=&space;\binom{-4\cdot&space;5}{5\cdot&space;5}&space;=&space;\binom{-20}{25}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{b}&space;=&space;5\vec{a}&space;=&space;\binom{-4\cdot&space;5}{5\cdot&space;5}&space;=&space;\binom{-20}{25}" title="\vec{b} = 5\vec{a} = \binom{-4\cdot 5}{5\cdot 5} = \binom{-20}{25}" /></a>
+
+j)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|&space;\vec{a}&space;\right&space;|&space;=&space;\sqrt{-4^2&plus;5^2}&space;=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;\vec{a}&space;\right&space;|&space;=&space;\sqrt{-4^2&plus;5^2}&space;=&space;3" title="\left | \vec{a} \right | = \sqrt{-4^2+5^2} = 3" /></a>
+
+k)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|\vec{b}&space;\right&space;|&space;=\sqrt{-20^2&plus;25^2}=15" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;|\vec{b}&space;\right&space;|&space;=\sqrt{-20^2&plus;25^2}=15" title="\left |\vec{b} \right | =\sqrt{-20^2+25^2}=15" /></a>
+
+l)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\binom{1}{0}&space;\cdot&space;4&space;=&space;\binom{4}{0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\binom{1}{0}&space;\cdot&space;4&space;=&space;\binom{4}{0}" title="\binom{1}{0} \cdot 4 = \binom{4}{0}" /></a>
+
+m)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\binom{1}{3}&space;\cdot&space;\frac{1}{2}&space;=&space;\binom{0.5}{1.5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\binom{1}{3}&space;\cdot&space;\frac{1}{2}&space;=&space;\binom{0.5}{1.5}" title="\binom{1}{3} \cdot \frac{1}{2} = \binom{0.5}{1.5}" /></a>
+
